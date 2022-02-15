@@ -1,0 +1,34 @@
+
+  
+  
+  .Summary{
+      
+background-color: bisque;
+border-radius: 15px;
+padding: 10px;
+  }
+  .checkout__itemsCount{
+      margin-bottom:10px;
+      font-weight:400
+  }
+  .checkout_number{
+      font-weight: 400;
+      Margin:10px !important
+  }
+  .checkout_Leftside{
+    margin: 10px 0px 10px 0px !important
+  }
+  .checkout_right{
+      font-weight: 600;
+      Margin:10px !important
+  }
+  .Summary__Button{
+      width: 100%;
+      margin-top: 10px !important;
+      padding: 10px !important;
+      cursor: pointer;
+  }
+  .Summary__Paybutton{
+      font-size: 18px;
+      align-items: center;
+  }

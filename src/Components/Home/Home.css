@@ -1,0 +1,38 @@
+.home {
+  margin: 20px 20px 10px 50px; /* top | right | bottom | left */
+  display:flex;
+}
+.home__images {
+  height: 110px;
+}
+.home__number {
+  position: absolute;
+  margin-top: -25px;
+  background-color: white;
+  margin-left: 29px;
+}
+
+.home__vegicon {
+  height: 20px;
+}
+.home__heading {
+  font-weight: 700;
+}
+.home__rupeesymbol {
+  padding: 2px;
+}
+.home__amount {
+  margin-top: 5px;
+}
+.home__divider {
+  margin-top: 40px !important;
+}
+/* .Checkout{
+  position: sticky;
+  top: 0;
+  align-items: baseline;
+} */
+.home__Buttons:hover{
+  background-color: rgb(167, 230, 188);
+  color:rgb(247, 243, 243);
+}

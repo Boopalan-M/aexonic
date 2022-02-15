@@ -1,0 +1,33 @@
+.checkout__vegicon {
+    height: 20px;
+  }
+  .checkout__Buttons{
+ margin-right:5px;
+  }
+ 
+  .Checkout{
+      position:sticky;
+      top:0;
+
+  }
+  .checkout__itemsCount{
+      margin-bottom:10px;
+      font-weight:400
+  }
+  .checkout__Button{
+    width: 100%;
+    margin-top: 10px !important;
+    padding: 10px !important;
+    cursor: pointer;
+}
+.checkout__Paybutton{
+    font-size: 18px;
+    align-items: center;
+}
+.checkout__empty{
+    font-size: large;
+    color: red;
+}
+.checkout_Left{
+    font-weight: 700;
+}

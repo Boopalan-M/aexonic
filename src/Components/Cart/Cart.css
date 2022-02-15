@@ -1,0 +1,25 @@
+.cart_main {
+  margin: 50px;
+}
+.cart_values {
+  display: flex;
+
+  background-color: bisque;
+}
+.cart_heading {
+  margin: 50px;
+}
+.cart__images {
+  height: 50px;
+}
+.cart__gridstyle {
+  margin-left: 50px !important;
+}
+.Cart__emptycart{
+    font-Size:18px;
+    color:red;
+}
+.Cart__Button{
+   justify-content: flex-end;
+    margin:10px !important
+}
